@@ -1,2 +1,2 @@
-# Tourisminfo
+# Touristspot
 An guide to tourist
